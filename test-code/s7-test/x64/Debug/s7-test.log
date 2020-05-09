@@ -1,5 +1,0 @@
-﻿  s7-test.c
-C:\Users\iainduncan\source\repos\s7-test\s7-test.c(45,41): warning C4244: '=': conversion from 's7_int' to 'int', possible loss of data
-C:\Users\iainduncan\source\repos\s7-test\s7-test.c(49,36): warning C4013: 'strlen' undefined; assuming extern returning int
-C:\Users\iainduncan\source\repos\s7-test\s7-test.c(50,15): warning C4013: 'strcpy' undefined; assuming extern returning int
-  s7-test.vcxproj -> C:\Users\iainduncan\source\repos\s7-test\s7-test.exe
